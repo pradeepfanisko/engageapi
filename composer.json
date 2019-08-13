@@ -1,0 +1,20 @@
+{
+    "name": "fanisko/engage-api-c",
+    "description": "Innovative One-Stop Digital Fan Engagement Platform",
+    "type": "composer-plugin",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Raviraj T",
+            "email": "ravit@fanisko.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "EngageAPI": "src/"
+        }
+    }
+}
